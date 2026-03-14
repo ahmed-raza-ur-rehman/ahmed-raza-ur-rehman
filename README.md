@@ -1,92 +1,125 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0A2E,100:7B2FBE&height=200&section=header&text=Ahmed%20Raza%20ur%20Rehman&fontSize=36&fontColor=C4A1FF&fontAlignY=35&desc=I%20am%20the%20Shadow&descSize=16&descAlignY=55&descColor=8B5CF6&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Raza+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+Lurking+in+the+Shadows+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;Full-Stack+Developer+%7C+Architect+of+the+Dark;The+mundane...+and+the+shadows...+are+my+domain;Power+honed+in+silence%2C+code+forged+in+darkness" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-raza-ur-rehman&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ahmed-raza-ur-rehman)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmed-raza-ur-rehman&label=Watchers+from+the+Shadows&color=7B2FBE&style=for-the-badge)](https://github.com/ahmed-raza-ur-rehman)
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🙋‍♂️ About Me
+## 🌑 The One Who Lurks in Shadow
 
-```yaml
-name: Ahmed Raza ur Rehman
-location: Pakistan 🇵🇰
-role: Full-Stack Developer
-passion: Building things that matter
-status: Always learning something new ✨
+```js
+// ██▓▒░ shadow_garden.config.js ░▒▓██
+
+const shadowOperative = {
+    name: "Ahmed Raza ur Rehman",
+    alias: "Shadow",
+    location: "Pakistan 🇵🇰",
+    role: "Full-Stack Developer",
+    creed: "The Eminence in Code",
+    status: "Operating from the shadows...",
+    power_level: "Atomic",
+};
 ```
 
-- 🔭 I'm currently working on exciting **full-stack** projects
-- 🌱 I'm currently levelling up my skills in **cloud & DevOps**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, APIs, and clean code**
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+> *"I don't seek the spotlight. I seek the eminence... in shadow."*
 
----
+- 🌑 Currently orchestrating **full-stack** operations from the dark
+- ⚔️ Training in the arts of **cloud & DevOps**
+- 🗡️ Recruiting allies for **open-source** shadow campaigns
+- 💀 Consult me on **web development, APIs, and clean architecture**
+- 🎭 Fun fact: I `console.log` from the shadows — even darkness needs debugging
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚔️ Arsenal of the Shadow Garden
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🗡️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=7B2FBE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=7B2FBE)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=7B2FBE)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=7B2FBE)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=7B2FBE)
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚔️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=7B2FBE)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=7B2FBE)
+![Express](https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=7B2FBE)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=7B2FBE)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=7B2FBE)
 
----
+### 🛡️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=7B2FBE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=7B2FBE)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=7B2FBE)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=7B2FBE)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=7B2FBE)
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 Shadow Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-ur-rehman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza-ur-rehman&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=7B2FBE&icon_color=7B2FBE&text_color=C4A1FF&ring_color=7B2FBE" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza-ur-rehman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza-ur-rehman&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=7B2FBE&text_color=C4A1FF" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmed-raza-ur-rehman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ahmed-raza-ur-rehman&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7B2FBE&ring=7B2FBE&fire=C4A1FF&currStreakNum=C4A1FF&sideNums=C4A1FF&currStreakLabel=7B2FBE&sideLabels=7B2FBE&dates=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-raza-ur-rehman)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-raza-ur-rehman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.raza@example.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza-ur-rehman&bg_color=0D0D0D&color=7B2FBE&line=C4A1FF&point=7B2FBE&area_color=1A0A2E&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌐 Shadow Network
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=7B2FBE)](https://linkedin.com/in/ahmed-raza-ur-rehman)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=7B2FBE)](https://github.com/ahmed-raza-ur-rehman)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=7B2FBE)](mailto:ahmed.raza@example.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+```
+I am... the Shadow.
+The one who lurks in the darkness,
+the one who hunts the shadows...
+I am the Eminence in Shadow.
+```
+
+*— Shadow (The Eminence in Shadow)*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0A2E,100:7B2FBE&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
