@@ -29,7 +29,7 @@ const ahmed = {
 - 🧩 Passionate about **problem solving** — the harder the problem, the more fun it is
 - 🎮 Also build things in **Unity**, design in **Blender**, and draft in **AutoCAD**
 - 🤝 Down-to-earth, always happy to collaborate and learn from others
-- ⚡ Fun fact: I've written code in **15+ languages** and still counting
+- ⚡ Fun fact: I've written code in **14+ languages** and still counting
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
